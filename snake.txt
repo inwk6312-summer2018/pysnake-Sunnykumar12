@@ -1,0 +1,7 @@
+1. there should be a playing area.
+2. score display area.
+3. a constantly moving snake.
+4. when snake touches the food, size of snake increases.
+5. score will increase when snake touches the food.
+6. snake speed will increase when the each 20 score.
+7. game will restart when it touches the boundry or itself.
